@@ -7,6 +7,7 @@
 
 
 
+# Salut moi c'est Nero 
 
 
 ## Sur Moi 
@@ -17,13 +18,15 @@
 
 ## J'aime travaillé avec
 - 🐍Python
-- Django
+- 🌐Django
 - HTML
 - CSS
 - JavaScript
 
 ## Mes Passions 
-- Ce que j'aime ou je n'aime pas ne vous regarde pas 
-- Des projets pour l'avenir je n'en ai pas 
-- Mes loisirs sont diverses et variés 
+- 🎵 La musique 
+- 🍜 La gastronomie
+- 🕹️ Les jeux vidéos 
+- 🎞️ Movies
+- 💲 L'argent
 
