@@ -1,7 +1,7 @@
 
-
-
-
+[espace](Nero4927/espace.png) 
+█▀ ▄▀█ █░░ █░█ ▀█▀   ▀█▀ █▀█ █
+▄█ █▀█ █▄▄ █▄█ ░█░   ░█░ █▄█ █
 
 
 
@@ -14,8 +14,14 @@
 - Passion 🕹️, Je dévloppe un jeu textuel en python sur mon temps libre.
 
 ## J'aime travaillé avec
--🐍Python
--HTML
--CSS
--JavaScript
+- 🐍Python
+- Django
+- HTML
+- CSS
+- JavaScript
+
+## Mes Passions 
+- Ce que j'aime ou je n'aime pas ne vous regarde pas 
+- Des projets pour l'avenir je n'en ai pas 
+- Mes loisirs sont diverses et variés 
 
